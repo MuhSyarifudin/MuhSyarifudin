@@ -1,8 +1,8 @@
 
 - 🔭 I’m currently working on Poliwangi
-- 🌱 I’m currently learning Kotlin programs
-- 👯 I’m looking to collaborate on Kotlin Programs
-- 🤔 I’m looking for help with Kotlin programs
+- 🌱 I’m currently learning Kotlin
+- 👯 I’m looking to collaborate on Android Developer
+- 🤔 I’m looking for help with Android Programs
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Syarifudin](https://fb.me/parkiran708)
 - 😄 Pronouns: Indonesia
