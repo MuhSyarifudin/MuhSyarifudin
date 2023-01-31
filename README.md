@@ -9,11 +9,8 @@
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
 ![](https://img.shields.io/badge/Library-Spring-informational?style=flat&logo=spring&logoColor=white&color=336791)
-![](https://img.shields.io/badge/Library-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
-![](https://img.shields.io/badge/Tools-Elasticsearch-informational?style=flat&logo=elastic&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
 <p align="center">
