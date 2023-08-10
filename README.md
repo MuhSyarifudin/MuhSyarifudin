@@ -1,10 +1,10 @@
 <h1 align="center">Hello! I'm Muhamad Syarifudin Abdul Jalal 🙇🏻‍♂️</h1>
-<h3 align="center">Java Backend</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MuhSyarifudin" alt="MuhSyarifudin" /> </p>
 
 - 🏠 I’m currently lived in **Banyuwangi, Indonesia,** as Java Backend
-- 📃 Java Developer
+- 📃 Software Engineer
 - 📩 Hit me up on **[LinkedIn!](https://linkedin.com/in/muhamadsyarifudin)** or email me on **[here](mailto:syarifudin.thegreat10@gmail.com)**
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational%3Fstyle%3Dflat%26logo%3Djava%26logoColor%3Dwhite%26color%3DF7DF1E?logo=kotlin&logoColor=white&label=Code&labelColor=grey&color=%23f005f0
