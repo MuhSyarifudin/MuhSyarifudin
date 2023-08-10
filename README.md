@@ -12,6 +12,8 @@
 )
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Library-Spring-informational?style=flat&logo=spring&logoColor=white&color=336791)
+![]([https://img.shields.io/badge/Library-Spring-informational?style=flat&logo=spring&logoColor=white&color=336791](https://img.shields.io/badge/Code-Laravel-informational%3Fstyle%3Dflat%26logo%3Djava%26logoColor%3Dwhite%26color%3DF7DF1E?logo=Laravel&logoColor=white&label=Library&labelColor=grey&color=%23f52027
+))
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
