@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Code-Laravel-informational%3Fstyle%3Dflat%26logo%3Djava%26logoColor%3Dwhite%26color%3DF7DF1E?logo=Laravel&logoColor=white&label=Library&labelColor=grey&color=%23f52027)
 ![](https://img.shields.io/badge/Library-Flutter-informational%3Fstyle%3Dflat%26logo%3Djava%26logoColor%3Dwhite%26color%3DF7DF1E?logo=Flutter&logoColor=white&label=Code&labelColor=grey&color=%2347c5ff
 )
-![](https://img.shields.io/badge/Code-Mysql-informational%3Fstyle%3Dflat%26logo%3Djava%26logoColor%3Dwhite%26color%3DF7DF1E?logo=mysql&logoColor=white&label=Tools&labelColor=grey&color=%2324afff)
+![](https://img.shields.io/badge/Code-MySQL-informational%3Fstyle%3Dflat%26logo%3Djava%26logoColor%3Dwhite%26color%3DF7DF1E?logo=mysql&logoColor=white&label=Tools&labelColor=grey&color=%2324afff)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
