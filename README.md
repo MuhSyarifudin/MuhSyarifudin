@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MuhSyarifudin" alt="MuhSyarifudin" /> </p>
 
-- 🏠 I’m currently lived in **Banyuwangi, Indonesia,** as Java Backend
+- 🏠 I’m currently lived in **Banyuwangi, Indonesia,** as Software Engineer
 - 📃 Software Engineer
 - 📩 Hit me up on **[LinkedIn!](https://linkedin.com/in/muhamadsyarifudin)** or email me on **[here](mailto:syarifudin.thegreat10@gmail.com)**
 
