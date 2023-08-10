@@ -6,6 +6,8 @@
 - 🏠 I’m currently lived in **Banyuwangi, Indonesia,** as Java Backend
 - 📃 Java Developer
 - 📩 Hit me up on **[LinkedIn!](https://linkedin.com/in/muhamadsyarifudin)** or email me on **[here](mailto:syarifudin.thegreat10@gmail.com)**
+
+
 ![](https://img.shields.io/badge/Code-Java-informational%3Fstyle%3Dflat%26logo%3Djava%26logoColor%3Dwhite%26color%3DF7DF1E?logo=Java&logoColor=white&color=%23e28743
 )
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
